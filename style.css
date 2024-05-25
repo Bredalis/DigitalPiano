@@ -1,0 +1,43 @@
+
+* {
+	text-align: center;
+	font-family: Tahoma;
+}
+
+div .sostenidas, div .notasBlancas {
+	margin-top: 1rem;
+	padding: 2rem;
+	width: 1rem;
+	border-radius: 1rem;
+}
+
+div div {
+	display: inline-block;
+}
+
+h1 {
+	font-size: 3rem;
+	margin: 4rem;
+}
+
+div .sostenidas {
+	background: black;
+	color: white;
+}
+
+div .sostenidas:hover {
+	cursor: pointer;
+	background: white;
+	color: black;
+}
+
+div .notasBlancas {
+	background: white;
+	color: black;
+}
+
+div .notasBlancas:hover {
+	cursor: pointer;
+	background: black;
+	color: white;
+}
