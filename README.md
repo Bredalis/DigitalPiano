@@ -56,6 +56,7 @@ Para ver en pantalla el Piano Digital 🎶 solo debes seguir estos pasos:
 4. 🔧 En el editor con Ctrl + B (Sublime Text) o Ctrl + J y escribes:
     ```bash
     python App.py
+    ```
 
 ## Licencia 📜
 
