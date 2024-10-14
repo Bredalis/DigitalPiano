@@ -50,11 +50,6 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
       pip install -r requirements.txt
       ```
 
-4. Copiar la URL y pegarla en tu navegador favorito:
-    ```bash
-    http://127.0.0.1:5000
-    ```
-
 ## Uso ⚙️
 
 Para ver en pantalla el Piano Digital 🎶 solo debes seguir estos pasos:
@@ -68,6 +63,10 @@ Para ver en pantalla el Piano Digital 🎶 solo debes seguir estos pasos:
     python App.py
     ```
 
+4. Copiar la URL y pegarla en tu navegador favorito:
+    ```bash
+    http://127.0.0.1:5000
+    ```
 <br>
 
 ## Licencia 📜
