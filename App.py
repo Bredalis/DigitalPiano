@@ -2,7 +2,6 @@
 from flask import Flask, render_template
 
 def pagina_piano():
-    
     app = Flask(__name__)
 
     @app.route("/")
