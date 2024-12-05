@@ -13,7 +13,7 @@
 	src: url("../Fuentes/Belanosima_SemiBold.ttf") format("opentype");
 }
 
-div .sostenidas, div .notasBlancas {
+div .sostenidas, div .notas-blancas {
 	margin-top: 1rem;
 	padding: 2rem;
 	width: 1rem;
@@ -61,12 +61,12 @@ div .sostenidas:hover {
 	color: black;
 }
 
-div .notasBlancas {
+div .notas-blancas {
 	background: white;
 	color: black;
 }
 
-div .notasBlancas:hover {
+div .notas-blancas:hover {
 	cursor: pointer;
 	background: black;
 	color: white;
